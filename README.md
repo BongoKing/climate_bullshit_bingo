@@ -8,4 +8,4 @@ https://www.cambridge.org/core/journals/global-sustainability/article/discourses
 The code is usable via the terminal. The path of the file with the climate bullshit points has to be defined as well as the number of cards that shall be designed.
 
 Example:
-python bingo_generator.py /path/to/your/file.txt 5
+python bingo_generator.py /lambetal_2020.txt 5
